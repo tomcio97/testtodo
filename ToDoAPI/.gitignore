@@ -1,0 +1,59 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Paket
+.paket/
+paket-files/
+
+# F# interactive and temp files
+*.fsx.lock
+*.fsproj.user
+*.ionide
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Test results
+TestResults/
+*.TestResults/
+
+# Dotnet tools
+.dotnet/
+
+# Local secrets
+secrets.json
+
+# Others
+*.db
+*.sqlite
+*.sdf
+*.vshost.*
+_ReSharper.*
+*.resharper
+*.vs/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
